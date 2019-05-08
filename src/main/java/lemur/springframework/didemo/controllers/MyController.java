@@ -10,6 +10,6 @@ public class MyController {
     public String hello(){
         System.out.println("Hello!!! ");
 
-        return "foasdfasdfo";
+        return "foo";
     }
 }

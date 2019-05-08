@@ -1,4 +1,4 @@
-package lemur.springframework.didemo.controllers.services;
+package lemur.springframework.didemo.services;
 
 import org.springframework.stereotype.Service;
 

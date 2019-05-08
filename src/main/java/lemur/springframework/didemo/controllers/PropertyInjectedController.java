@@ -1,6 +1,6 @@
 package lemur.springframework.didemo.controllers;
 
-import lemur.springframework.didemo.controllers.services.GreetingServiceImpl;
+import lemur.springframework.didemo.services.GreetingServiceImpl;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 
